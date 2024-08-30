@@ -25,6 +25,7 @@ body{
 
 .container{
     height: 100vh;
+    display: grid;
 }
 
 .container-botao{
@@ -33,5 +34,6 @@ body{
     border-radius: 5px;
     padding: lem ; 
     display: block;
+    
 
 }
