@@ -31,5 +31,6 @@ body{
     background-color:var(--botao-azul) ;
     color: var(--branco-principal);
     border-radius: 5px;
+    padding: lem ; 
 
 }
