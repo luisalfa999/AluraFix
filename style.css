@@ -32,5 +32,6 @@ body{
     color: var(--branco-principal);
     border-radius: 5px;
     padding: lem ; 
+    display: block;
 
 }
