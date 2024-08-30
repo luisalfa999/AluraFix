@@ -26,6 +26,7 @@ body{
 .container{
     height: 100vh;
     display: grid;
+    grid-temple-columns: 50% 50%;
 }
 
 .container-botao{
