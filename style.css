@@ -22,25 +22,48 @@ body{
     background-image: url(Background.png);
     background-repeat: no-repeat;
     background-size: contain;
+    align-items: center;
 }
 
 .container{
     height: 100vh;
     display: grid;
-    grid-temple-columns: 50% 50%;
+    grid-template-columns: 50% 50%;
 }
 
 .container-botao{
     background-color:var(--botao-azul) ;
     color: var(--branco-principal);
     border-radius: 5px;
-    padding: lem ; 
+    padding: 1em;
     display: block;
+    text-decoration: none;
+    margin-bottom: 1em;
 }
 
 .botao2{
-background-color: transparente;
+background-color: transparent;
     border: 2px solid white;
     
 }
 
+.container_aviso{
+    font-size: 12px;
+    color: var(--cinza-secundario);
+
+}
+.container_titulo{
+    font-size: 28px;
+    font-weight: 700;
+
+}
+
+.container_imagem{
+    margin: 1em 0 2em 0;
+
+}
+
+.container_caixa{
+    margin: 0 6em 0 6em;
+
+}
