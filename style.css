@@ -88,3 +88,22 @@ background-color: transparent;
             padding: 2em;
     
         }
+
+        .dispositivos_listas{
+            display:flex;
+            justify-content: center;
+            list-style-type: none ;
+            font-size: 48pxs;
+
+        }
+
+        .dispositivos{
+            text-align: center;
+
+        }
+    .dispositivos_titulo{
+        font-size: 48px;
+    }
+    .item_lista{
+        font-size: 32px;
+    }
