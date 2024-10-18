@@ -107,3 +107,13 @@ background-color: transparent;
     .item_lista{
         font-size: 32px;
     }
+    .rodape{
+    text-align: center;
+    }
+
+    .rodape_lista{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin-top: 1em;
+    }
